@@ -1,0 +1,18 @@
+{
+	"name": "com.codegencs.codegencs",
+	"version": "1.0.0",
+	"displayName": "Code Generation CS",
+	"description": "Generates scripts from templates. 3rd Party Resource",
+	"unity": "2021.3",
+	"unityRelease": "6f1",
+	"documentationUrl": "https://github.com/CodegenCS/CodegenCS",
+	"changelogUrl": "https://github.com/CodegenCS/CodegenCS",
+	"licensesUrl": "https://github.com/CodegenCS/CodegenCS/blob/master/LICENSE",
+	"dependencies": {
+	},
+	"author": {
+		"name": "CodegenCS",
+		"email": "unity@example.com",
+		"url": "https://www.unity3d.com"
+	}
+}
